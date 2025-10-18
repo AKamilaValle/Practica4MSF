@@ -3,7 +3,7 @@
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Ana Kamilas Valle Z. Flores \[22211769]; l22211769@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
